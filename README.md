@@ -6,3 +6,5 @@ Vjezba 3 PIS
 Vjezba 3 - Distribuirani sustavi verzioniranja
 
 Ne radi ti vjezba!!!!
+
+asds
